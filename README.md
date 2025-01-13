@@ -22,4 +22,4 @@
 
 ### Contact
 
-- [My e-mail](atilaramosneto@gmail.com)
+- [My e-mail](mailto:atilaramosneto@gmail.com)
