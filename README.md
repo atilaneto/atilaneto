@@ -1,11 +1,9 @@
 
-## Hello there, I am Átila Neto 👋
+## Hello there, I'm Átila Neto 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/átila-neto-439909258)
+- Studying Computer Science in Brazil, at INTELI (Institute of Technology and Leadership)
 
-### Technologies that I have been studying
-
-## Hello there, I am Átila Neto 👋
+- About me: I'm passionate about music, motorsport, astonishing ventures, cinema, football, and basketball. At the age of six, I began learning to play the acoustic guitar and the drums, all while being a goalkeeper. When I turned 10, I started playing classical guitar in my school’s freshman orchestra. Two years later, I advanced to the main orchestra, where I played for another two years. Eventually, I decided to step away from the orchestra to focus solely on studying classical guitar, as my attention shifted to a new passion: basketball. Playing as a point guard was mentally and physically challenging most of the time. Nonetheless, that journey allowed me to meet my non-blood family and create countless unforgettable memories.
 
 ### If you want to connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/átila-neto-439909258)
@@ -23,3 +21,4 @@
 ### Contact
 
 - [My e-mail](mailto:atilaramosneto@gmail.com)
+
