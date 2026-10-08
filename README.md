@@ -14,6 +14,6 @@ actually do, especially in financial workflows.
 - Learning ML from the ground up to build LLMs and MLMs
 - Computer Science at Inteli, São Paulo
 
-**Before:** founded LineaCore (B2B automations, 2025) · Behring Founders
+**Before:** founded LineaCore (B2B automations, 2025) · Finalist at Behring Founders's first batch
 
 atilaramosneto@gmail.com · [LinkedIn](https://www.linkedin.com/in/átila-neto-439909258)
