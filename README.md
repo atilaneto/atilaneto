@@ -1,22 +1,19 @@
+# Átila Neto
 
-## Hello there, I'm Átila Neto 👋
+Co-founder and engineer at an early-stage fintech in Brazil (stealth).
+I built our product end to end: Pix and card payments, Open Finance
+integrations, and an LLM layer that reads and explains credit card statements.
 
-- Studying Computer Science in Brazil, at INTELI (Institute of Technology and Leadership)
+Now focused on **LLM evaluations and AI safety**: measuring what models
+actually do, especially in Portuguese and in financial workflows.
 
-- About me: I'm passionate about music, motorsport, astonishing ventures, cinema, football, and basketball. At the age of six, I began learning to play the acoustic guitar and the drums, all while being a goalkeeper. When I turned 10, I started playing classical guitar in my school’s freshman orchestra. Two years later, I advanced to the main orchestra, where I played for another two years. Eventually, I decided to step away from the orchestra to focus solely on studying classical guitar, as my attention shifted to a new passion: basketball. Playing as a point guard was mentally and physically challenging most of the time. Nonetheless, that journey allowed me to meet my non-blood family and create countless unforgettable memories.
+**Stack:** TypeScript · Next.js · Node.js · PostgreSQL / Supabase · Python · LLM APIs
+**Shipped integrations:** Mercado Pago · Delfinance · Pluggy / Iniciador (Open Finance) · Twilio · Resend
 
-### If you want to connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/átila-neto-439909258)
+**Currently**
+- Learning ML from the ground up (Karpathy's *Zero to Hero*, ARENA)
+- Computer Science at Inteli, São Paulo
 
-### Technologies that I have been studying
+**Before:** founded LineaCore (B2B automations, 2025) · Behring Founders
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;"><br/> 
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-</div><br/>
-
-### Contact
-
-- [My e-mail](mailto:atilaramosneto@gmail.com)
-
+atilaramosneto@gmail.com · [LinkedIn](https://www.linkedin.com/in/átila-neto-439909258)
